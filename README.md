@@ -1,4 +1,4 @@
-# 🌊 MavisEvoV1 - AI-Powered ROV System
+# 🌊 MavisEvoV1 - AI-Powereds AUV System (ONGOING)
 
 Sistem kendali cerdas dan *computer vision* untuk Remotely Operated Vehicle (ROV) bawah air. Arsitektur ini menggabungkan pendeteksian objek secara *real-time* menggunakan YOLOv11 dengan sistem komunikasi robotika standar industri (ROS 2).
 
