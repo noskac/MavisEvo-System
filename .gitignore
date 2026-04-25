@@ -1,0 +1,28 @@
+# ========================
+# ROS 2 Build Folders
+# ========================
+build/
+install/
+log/
+
+# ========================
+# Python & Virtual Environment
+# ========================
+yolo_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ========================
+# Machine Learning Models
+# ========================
+models/*.engine
+models/*.onnx
+# models/*.pt 
+
+# ========================
+# PlatformIO / Firmware
+# ========================
+.pio/
+.vscode/
