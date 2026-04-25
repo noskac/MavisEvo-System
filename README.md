@@ -20,4 +20,4 @@ Sistem kendali cerdas dan *computer vision* untuk Remotely Operated Vehicle (ROV
 * **Hardware:** NVIDIA RTX Series (Backend), ESP32 / Teensy 4.1 (Controller)
 
 ---
-*Developed by Andaru Wicaksono.*
+*Developed by Andaru Wicaksono and MavisEvo team.*
